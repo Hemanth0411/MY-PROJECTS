@@ -1,2 +1,2 @@
 #JUST A RANDOM FILE
-print("Hello, World!")
+print("Hello, Everyone!")
