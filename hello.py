@@ -1,2 +1,13 @@
 #JUST A RANDOM FILE
 print("Hello, Everyone!")
+print()
+print()
+print("My First Project(s) : Dice Rolling v1.0 and v2.0")
+print("Basic Version from GeeksforGeeks.")
+print()
+print()
+print("My Second Project: Number Guessing Game")
+print("Basic Version from Coursera")
+print()
+print()
+print("My Third Project: ")
