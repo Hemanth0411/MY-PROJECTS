@@ -21,10 +21,10 @@ while turns > 0:
             print(char, end=" ")
         else:
             print("_",end=" ")
-
             failed += 1
+    print(f'\n')
     if failed == 0:
-        print("You Win")
+        print(f'\nYou Win')
         print("The word is: ", word)
         break
     print()
